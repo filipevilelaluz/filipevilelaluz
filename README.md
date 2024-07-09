@@ -2,5 +2,5 @@
 
 ### <strong> Data Engineer </strong>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message= istp - 29 - he/him&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+<img src="https://img.shields.io/static/v1?label=Overview&message= - he/him&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 <p>🚀 Engenheiro de Dados | 📚 Estudante de Ciência de Dados | 🔍 Explorador de Insights </p>
